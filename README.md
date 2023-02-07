@@ -1,7 +1,7 @@
 <h1 align ="center"> Reconocimiento Facial con Deep Learning </h1>
 
 <p align = "center">
-	 <img src="https://user-images.githubusercontent.com/74676901/217028852-2a583257-c2a2-4468-9824-c28989999152.png" height=”600”       width=600” style= "text-align: center"> 
+	 <img src="https://user-images.githubusercontent.com/74676901/217028852-2a583257-c2a2-4468-9824-c28989999152.png" height=”250”       width=250” style= "text-align: center"> 
    
 </p>
 
